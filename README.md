@@ -21,7 +21,8 @@ Code base for papers:
 
 Role of masks in mitigating viral spread on networks
 **Yurun Tian**, Anirudh Sridhar, Chai Wah Wu, Simon A. Levin, Kathleen M. Carley, H. Vincent Poor, and Osman Yağan
-Phys. Rev. E 108, 014306 – Published 24 July 2023
+
+_Phys. Rev. E_ 108, 014306 – Published 24 July 2023
 
 
 3. [Spreading processes with population heterogeneity over multi-layer networks](https://arxiv.org/abs/2211.07479)
