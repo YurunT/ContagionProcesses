@@ -17,7 +17,7 @@ Code base for papers:
 
 **Y. Tian**, A. Sridhar, O. Yağan and H. V. Poor, "Analysis of the Impact of Mask-wearing in Viral Spread: Implications for COVID-19," _2021 American Control Conference (ACC)_, New Orleans, LA, USA, 2021, pp. 3132-3137, doi: 10.23919/ACC50511.2021.9482733.
 
-2. [The Role of Masks in Mitigating Viral Spread on Networks](https://link.aps.org/doi/10.1103/PhysRevE.108.014306)
+2. [The Role of Masks in Mitigating Viral Spread on Networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.014306)
 
 Role of masks in mitigating viral spread on networks
 **Yurun Tian**, Anirudh Sridhar, Chai Wah Wu, Simon A. Levin, Kathleen M. Carley, H. Vincent Poor, and Osman Yağan
