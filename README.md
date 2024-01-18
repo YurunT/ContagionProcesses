@@ -42,4 +42,5 @@ Code base for complex contagion (multiple sources of exposure are required) proc
 Y. Zhuang and O. Yagan, "A Vector Threshold Model for the Simultaneous Spread of Correlated Influence," _ICC 2019 - 2019 IEEE International Conference on Communications (ICC)_, Shanghai, China, 2019, pp. 1-7, doi: 10.1109/ICC.2019.8761313.
 
 2. Multi-dimensional Threshold Model with Correlation: Emergence of Global Cascades
+   
 **Y. Tian** and O. Yagan, "Multi-dimensional Threshold Model with Correlation: Emergence of Global Cascades," accepted at _ICC 2024.
