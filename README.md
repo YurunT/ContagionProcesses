@@ -43,4 +43,4 @@ Y. Zhuang and O. Yagan, "A Vector Threshold Model for the Simultaneous Spread of
 
 2. Multi-dimensional Threshold Model with Correlation: Emergence of Global Cascades
    
-**Y. Tian** and O. Yagan, "Multi-dimensional Threshold Model with Correlation: Emergence of Global Cascades," accepted at _ICC 2024.
+**Y. Tian** and O. Yagan, "Multi-dimensional Threshold Model with Correlation: Emergence of Global Cascades," accepted at _ICC_ 2024.
